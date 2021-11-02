@@ -4,7 +4,8 @@ This is an End-end Machine Learning Project to predict the resale value of a car
 -> Ex-Showroom Price
 -> Kilometers Driven
 -> Number of Owners etc.,
-This project has been deployed in Heroku
+This project has been deployed in Heroku.
+
 Requirements.txt file has the required libraries to build this project
 
 
